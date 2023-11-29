@@ -1,0 +1,3 @@
+# pecten
+
+ng build project
